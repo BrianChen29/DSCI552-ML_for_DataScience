@@ -13,7 +13,7 @@ linear, multiple, KNN regression models
   - Binary classification using L1-penalized logistic regression
   - Multi-class classification (The realistic case) using L1-penalized multinomial regression model and a Naïve Bayes’ classifier
 
-### 5. Accute Inflamations data
+### 5. Accute Inflamations data & Communities and Crime data
   - Decision Trees as interpretable models
   - Using linear model, ridge regression model, LASSO model, and PCR model
   - Using L1-penalized gradient boosting tree (XGBoost)
