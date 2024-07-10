@@ -26,3 +26,11 @@ linear, multiple, KNN regression models
 ### 7. Anuran Calls (MFCCs) Data Set - Multi-class and Multi-Label Classification
   - Using Support Vector Machines
   - Using K-Means Clustering - Monte-Carlo Simulation
+
+### 8. Breast Cancer Wisconsin (Diagnostic) Data Set & banknote authentication Data Set
+  - Part 1
+    - Supervised, Semi-Supervised, and Unsupervised Learning
+    - Using L1-panalized SVM, Kmeans clustering, Spectral clustering
+  - Part 2
+    - Active Learning Using Support Vector Machines
+    - Passive Learning Using Support Vector Machines
